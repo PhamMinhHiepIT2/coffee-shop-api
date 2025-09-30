@@ -1,3 +1,4 @@
+## System Context
 ![System Context](./images/system-context.png)
 
 Context and boundaries:

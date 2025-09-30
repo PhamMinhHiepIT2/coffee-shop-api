@@ -1,3 +1,6 @@
+# Sequence Diagrams
+---
+
 ## Customer Registration
 ![Customer Registration](./images/sequence-diagram-customer-registration.png)
 

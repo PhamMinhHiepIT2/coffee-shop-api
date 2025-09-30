@@ -1,3 +1,5 @@
+## Database schema
+
 ![Database Schema](./images/database-schema.png)
 
 The schema models core domain entities and relationships:

@@ -1,3 +1,5 @@
+## API Component
+
 ![API Component](./images/api-component.png)
 
 This component diagram shows the core services in the Coffee Shop API:
