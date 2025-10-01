@@ -97,8 +97,8 @@ src/
 
 2. **Access the application**
    - API: http://localhost:8080/api
-   - Swagger UI: http://localhost:8080/api/swagger-ui.html
-   - Health Check: http://localhost:8080/api/actuator/health
+   - Swagger UI: http://localhost:8080/swagger-ui/index.html
+   - Health Check: http://localhost:8080/actuator/health
 
 ## API Endpoints
 
